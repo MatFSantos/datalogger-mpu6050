@@ -71,3 +71,5 @@ O projeto utiliza os seguintes periféricos da plataforma BitDogLab:
   - Usa pandas para manipulação dos dados e matplotlib para visualização gráfica.
 
 ## Link para acesso ao vídeo
+
+[Video](https://youtu.be/PpYM8oEleKg)
